@@ -2,9 +2,9 @@
 
 I'm a Computer Science and Engineering student at the Technical University of Denmark. I like to tinker and experiment with the technologies I find interesting during my studies. I take inspiration for my projects in everyday problems and I try using code to solve them. 
 
-### Currently learning how to...
+### **Currently learning how to...**
 - Deploy apps on Google Cloud.
-- Ddesign reliable and secure systems.
+- Design reliable and secure systems.
 - Experiment with AI models trough APIs.
 
 ## 💻 Tech Stack:
