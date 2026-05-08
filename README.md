@@ -1,11 +1,8 @@
-## Hi There 👋
+## Hi there 👋
 
-I'm a Computer Science and Engineering student at the Technical University of Denmark. I like to tinker and experiment with the technologies I find interesting during my studies. I take inspiration for my projects in everyday problems and I try using code to solve them. 
+CSE Master's student @ DTU
 
-### **Currently learning how to...**
-- Deploy apps on Google Cloud.
-- Design reliable and secure systems.
-- Experiment with AI models trough APIs.
+Currently leveling up my nerd stats
 
 ## 💻 Tech Stack:
 #### **Programming languages**
